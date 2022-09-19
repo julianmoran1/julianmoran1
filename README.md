@@ -2,7 +2,9 @@
 
 I´m bachelor in communication with more than 10 years of experience in corporate communcation. After university I also worked as graphic and web designer. 
 
-In 2020 I redirected my career into information technologies and started my journey as a front end developer working with Javascript and React as framework. I'm currently doing my first steps in back end development with Mongo, Express and NodeJS,
+In 2020 I redirected my career into information technologies and started my journey as a front end developer working with Javascript and React as framework. I'm currently doing my first steps in back end development with Mongo, Express and NodeJS.
+
+Now I'm part of the web UI dev team at Globant. You can reach me https://www.linkedin.com/in/julianmoran/
 
 <!--
 **julianmoran1/julianmoran1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
